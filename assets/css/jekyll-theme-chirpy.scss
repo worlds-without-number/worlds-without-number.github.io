@@ -1,0 +1,21 @@
+---
+---
+
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+@font-face {
+    font-family: 'GFS_Orpheus_Classic';
+    src:  url('/assets/fonts/GFS_Orpheus_Classic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'GFS_Orpheus_Classic';
+}
