@@ -2,7 +2,7 @@
 title: "Ρούνσταντ"
 date: 2024-07-15 01:53:00 +0300
 categories: [Llagis, Locations]
-tags: [City, Llagis]
+tags: [City, Llagis, Lore]
 author: Grumpy Gm
 toc: false
 comments: true
